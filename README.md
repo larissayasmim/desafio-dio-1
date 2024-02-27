@@ -13,3 +13,9 @@
 <br>
 <br>
 <p><img alt="Símbolo scroll" width="20" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1681739570/todolist/scroll_op9o3h.png"> &nbsp; Como primeiro desafio do curso, a meta foi criar um repositório para colocar em prática o conteúdo ensinado nos primeiros módulos do curso, aplicando comandos do Git, tais como git clone, git push, git add, git commit, entre outros.</p>
+
+<br>
+
+---
+
+
